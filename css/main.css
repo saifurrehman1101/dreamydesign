@@ -1,0 +1,146 @@
+#bg{
+
+background: red;
+
+}
+#slid{
+	color: white;
+	background: #3A51A1;
+}
+
+#logo_bg
+{
+
+background: #C6CEEC;	
+	
+}
+
+#navii{
+
+	margin-left: 20px;
+}
+
+#logo{
+
+	text-align: center;
+}
+
+#welcc{
+text-align: center;
+margin-top: 10px;
+background: #D7E8D3;
+height: 100%;
+
+
+}
+#pkg{
+
+text-align: center;
+margin-top: 20px;
+background: #C4EEE4;
+}
+
+#pkg1{
+
+	margin-top: 20px;
+	text-align: center;
+	
+
+}
+
+#inr{
+border-width: 1px;
+border-style: solid;
+border-color: white;
+font-weight: bold;
+font-size: 30px;
+background: black;
+color: white;
+}
+
+#inr1{
+
+
+	border-width: 1px;
+border-style: solid;
+border-color: black;
+text-align: center;
+margin-top: 5px;
+font-size: 20px;
+background: #E2E9E7;
+}
+
+#inr12{
+
+border-width: 1px;
+border-style: solid;
+border-color: black;
+text-align: center;
+margin-top: 5px;
+font-size: 20px;
+
+}
+
+#exm{
+
+	text-align: center;
+	font-weight: bold;
+	margin-top: 50px;
+	background: yellow;
+	height: 50px;
+}
+
+#emm{
+
+	text-align: center;
+	font-weight: lighter;
+	background: #F2DCAB;
+	margin-top: 20px;
+}
+
+
+
+#imm{
+
+	width: 100%;
+	text-align: center;
+}
+
+#ee{
+
+	background: black;
+	height: 1px;
+	margin-top: 30px;
+}
+
+#art2{
+	margin-top: 30px;
+
+
+}
+
+#art3{
+	text-align: center;
+	width: 100%;
+	text-align: center;
+
+
+}
+#imm1{
+margin-top: 30px;
+width: 100%;
+	text-align: center;
+
+}
+
+#log{
+
+width: 400px;
+text-align: center;
+}
+
+#art4{
+
+	text-align: center;
+	margin-top: 30px;
+}
